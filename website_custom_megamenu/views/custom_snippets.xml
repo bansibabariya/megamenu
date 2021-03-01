@@ -10,22 +10,22 @@
             </div>
             <div class="o_panel_body">
                 <!-- Mega Menus Style 1 -->
-                <t t-snippet="website_megamenu.megamenu_style_1"
+                <t t-snippet="website_custom_megamenu.megamenu_style_1"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
                 <!-- Mega Menus Style 2 -->
-                <t t-snippet="website_megamenu.megamenu_style_2"
+                <t t-snippet="website_custom_megamenu.megamenu_style_2"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
                 <!-- Mega Menus Style 3 -->
-                <t t-snippet="website_megamenu.megamenu_style_3"
+                <t t-snippet="website_custom_megamenu.megamenu_style_3"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
                 <!-- Mega Menus Style 4 -->
-                <t t-snippet="website_megamenu.megamenu_style_4"
+                <t t-snippet="website_custom_megamenu.megamenu_style_4"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
                 <!-- Mega Menus Style 5 -->
-                <t t-snippet="website_megamenu.megamenu_style_5"
+                <t t-snippet="website_custom_megamenu.megamenu_style_5"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
                 <!-- Mega Menus Style 6 -->
-                <t t-snippet="website_megamenu.megamenu_style_6"
+                <t t-snippet="website_custom_megamenu.megamenu_style_6"
                    t-thumbnail="/website/static/src/img/snippets_thumbs/s_cover.png"/>
             </div>
         </xpath>
@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 1
@@ -46,7 +46,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 2
@@ -54,7 +54,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 3
@@ -62,7 +62,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 4
@@ -70,7 +70,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 5
@@ -87,7 +87,7 @@
             <div class="row">
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 1
@@ -95,7 +95,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 2
@@ -103,7 +103,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 3
@@ -111,7 +111,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 4
@@ -119,7 +119,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 5
@@ -136,7 +136,7 @@
             <div class="row">
                 <div class="col-md-1"/>
                 <div class="col-md-4 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                 </div>
                 <div class="col-md-6">
                     <div class="row">
@@ -272,7 +272,7 @@
             <div class="row">
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                 </div>
                 <div class="col-md-2 col-6 pb8">
                     <h5 class="text-black font-weight-bold pt16">
@@ -289,7 +289,7 @@
                 </div>
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                 </div>
                 <div class="col-md-2 col-6 pb8">
                     <h5 class="text-black font-weight-bold pt16">
@@ -313,7 +313,7 @@
         <section class="te_menu_style_5 container-fluid py-3 px-3">
             <div class="row pb16 ml-5 mr-5">
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 1
                     </h6>
@@ -364,7 +364,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 2
                     </h6>
@@ -415,7 +415,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 3
                     </h6>
@@ -466,7 +466,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 4
                     </h6>
@@ -517,7 +517,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 5
                     </h6>
@@ -568,7 +568,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 pb8 col-6">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="100%"/>
                     <h6 class="text-black font-weight-bold pt16 pb8 text-uppercase">
                         Main Category 6
                     </h6>
@@ -628,7 +628,7 @@
             <div class="row pb8">
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 1
@@ -636,7 +636,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 2
@@ -644,7 +644,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 3
@@ -652,7 +652,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 4
@@ -660,7 +660,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 5
@@ -671,7 +671,7 @@
             <div class="row pb8">
                 <div class="col-md-1"/>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 6
@@ -679,7 +679,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 7
@@ -687,7 +687,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 8
@@ -695,7 +695,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 9
@@ -703,7 +703,7 @@
                     </a>
                 </div>
                 <div class="col-md-2 col-6 pb8 text-center">
-                    <img src="/website_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
+                    <img src="/website_custom_megamenu/static/src/img/1.jpg" class="img" width="70%"/>
                     <a href="#">
                         <h6 class="text-black text-center font-weight-bold pb16 pt16">
                             Category 10

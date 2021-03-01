@@ -16,5 +16,5 @@ class menuHtmlBuilder(http.Controller):
                 'model': model,
                 'id': id,
             }
-            return request.render("website_megamenu.website_menu_edit", values)
+            return request.render("website_custom_megamenu.website_menu_edit", values)
 
