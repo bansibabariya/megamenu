@@ -25,7 +25,7 @@
         'views/menu_config.xml',
     ],
 
-    'images': ['images/OdooHelper.png'],
+    'images': ['images/OdooHelper.jpg'],
 
     'price': 28.56,
     'currency': 'USD',
